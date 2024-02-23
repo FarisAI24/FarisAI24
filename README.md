@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faris</h1>
 <h3 align="center">🤖 AI Student & Developer | 🎮 Game Dev Enthusiast | 📱 Application Innovator.</h3>
 
-- 🔭 I’m currently working on **Product Reviews Sentiment Analysis**
+- 🔭 I’m currently working on **Social Media App Using Flutter**
 
 - 🌱 I’m currently learning **Machine Learning, App Development and Web Development.**
 
